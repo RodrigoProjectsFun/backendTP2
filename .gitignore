@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+backend/.env
+
+# Service accounts
+backend/tp-smartkart-7dc93-firebase-adminsdk-53o47-24ab9a5c75.json
+backend/tp-smartkart-7dc93-firebase-adminsdk-53o47-ce5088d489.json
+
+
+# Build output
+backend/build/
+frontend/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,47 @@
+# .gitignore
+node_modules/
+.env
+tp-smartkart-7dc93-firebase-adminsdk-53o47-24ab9a5c75.json
+tp-smartkart-7dc93-firebase-adminsdk-53o47-ce5088d489.json
+package-lock.json
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# Eclipse
+.project
+.classpath
+.c9/
+*.launch
+
+# Vim
+*.swp
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ruby dependencies
+.bundle/
+vendor/bundle/
+
+# Java dependencies
+*.class
+*.jar
+*.war
+*.ear
+
+# Go dependencies
+vendor/
